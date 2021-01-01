@@ -3,7 +3,7 @@
 
 😍 My favorite things are **Typescript** and **React** but I can also speak in other languages like Java or C#.
 
-🤩 I would like to learn Web Assembly and Python in the near future!
+🤩 I would like to learn Web Assembly and more about Cloud development in the near future!
 
 👨‍🎓 I'm still a student so don't hesitate to tell me about my errors!
 
