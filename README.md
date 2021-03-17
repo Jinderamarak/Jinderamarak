@@ -1,5 +1,4 @@
-### Hi guys, my name is
-# Jindrich Moravec 🤓
+### Hi guys
 
 😍 My favorite things are **Typescript** and **React** but I can also speak in other languages like Java or C#.
 
