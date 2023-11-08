@@ -1,5 +1,7 @@
 ### Yo,
 
-🚗 That was weird phase huh
+🚗 That was a weird phase huh
 
-🎇 Checkout my projects at [moravec.dev](https://moravec.dev)
+🦀 Oh no, am I becoming a Rustacean?
+
+🎇 Check out my projects at [moravec.dev](https://moravec.dev)
