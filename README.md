@@ -4,4 +4,4 @@
 
 🦀 Oh no, am I becoming a Rustacean?
 
-🎇 Check out my projects at [moravec.dev](https://moravec.dev)
+🎇 Check out my repositories or projects at [moravec.dev](https://moravec.dev)
